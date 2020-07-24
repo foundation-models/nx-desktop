@@ -1,0 +1,116 @@
+157 157 01:52:44 422.729 Socket: WARNING! Can't bind the IPv6 socket.
+157 157 01:52:44 423.630 Socket: WARNING! Error is 99 'Cannot assign requested address'.
+157 157 01:52:44 455.074 Console: WARNING! Can't query FD#3.
+157 157 01:52:44 456.398 Console: WARNING! Error is 38, 'Function not implemented'.
+Info: Slave server running with pid 187.
+Info: Listening to slave connections on port 25001.
+Info: Starting NoMachine Monitor version '6.2.4'.
+Info: Loaded translation files for 'English'.
+157 157 01:52:44 684.103 OsDetect: Setting os type to 'Ubuntu'.
+157 157 01:52:44 685.202 Main: Creating a new connection monitor.
+157 157 01:52:44 711.911 Console: WARNING! Can't query FD#18.
+157 157 01:52:44 712.570 Console: WARNING! Error is 38, 'Function not implemented'.
+157 157 01:52:44 764.743 UiUtility: WARNING! Couldn't get window manager name.
+157 157 01:52:44 795.180 Console: WARNING! Can't query FD#25.
+157 157 01:52:44 795.752 Console: WARNING! Error is 38, 'Function not implemented'.
+157 157 01:52:44 802.483 Console: WARNING! Can't query FD#25.
+157 157 01:52:44 803.052 Console: WARNING! Error is 38, 'Function not implemented'.
+157 157 01:52:44 809.160 Console: WARNING! Can't query FD#25.
+157 157 01:52:44 809.712 Console: WARNING! Error is 38, 'Function not implemented'.
+227 227 01:52:44 811.883 Console: WARNING! Can't query FD#3.
+227 227 01:52:44 812.518 Console: WARNING! Error is 38, 'Function not implemented'.
+157 157 01:52:44 815.310 Console: WARNING! Can't query FD#25.
+157 157 01:52:44 815.861 Console: WARNING! Error is 38, 'Function not implemented'.
+157 157 01:52:44 821.997 Console: WARNING! Can't query FD#18.
+157 157 01:52:44 822.368 Console: WARNING! Error is 38, 'Function not implemented'.
+157 157 01:52:44 866.138 Console: WARNING! Can't query FD#18.
+157 157 01:52:44 866.874 Console: WARNING! Error is 38, 'Function not implemented'.
+157 248 01:52:44 904.761 Console: WARNING! Can't query FD#25.
+157 248 01:52:44 905.548 Console: WARNING! Error is 38, 'Function not implemented'.
+157 247 01:52:44 910.784 Console: WARNING! Can't query FD#25.
+157 247 01:52:44 911.398 Console: WARNING! Error is 38, 'Function not implemented'.
+157 250 01:52:44 918.001 Console: WARNING! Can't query FD#25.
+157 250 01:52:44 918.714 Console: WARNING! Error is 38, 'Function not implemented'.
+157 251 01:52:44 923.674 Console: WARNING! Can't query FD#25.
+157 251 01:52:44 924.290 Console: WARNING! Error is 38, 'Function not implemented'.
+157 249 01:52:44 930.811 Console: WARNING! Can't query FD#25.
+157 249 01:52:44 931.418 Console: WARNING! Error is 38, 'Function not implemented'.
+157 252 01:52:44 936.321 Console: WARNING! Can't query FD#25.
+157 252 01:52:44 936.899 Console: WARNING! Error is 38, 'Function not implemented'.
+157 254 01:52:44 943.787 Console: WARNING! Can't query FD#25.
+157 254 01:52:44 944.451 Console: WARNING! Error is 38, 'Function not implemented'.
+157 253 01:52:44 950.233 Console: WARNING! Can't query FD#25.
+157 253 01:52:44 951.033 Console: WARNING! Error is 38, 'Function not implemented'.
+157 254 01:52:44 952.908 Console: WARNING! Can't query FD#26.
+157 254 01:52:44 953.889 Console: WARNING! Error is 38, 'Function not implemented'.
+157 255 01:52:44 958.511 Console: WARNING! Can't query FD#25.
+157 255 01:52:44 958.867 Console: WARNING! Error is 38, 'Function not implemented'.
+157 260 01:52:44 962.154 Console: WARNING! Can't query FD#25.
+157 260 01:52:44 962.540 Console: WARNING! Error is 38, 'Function not implemented'.
+157 259 01:52:44 967.829 Console: WARNING! Can't query FD#25.
+157 259 01:52:44 968.799 Console: WARNING! Error is 38, 'Function not implemented'.
+157 257 01:52:44 973.361 Console: WARNING! Can't query FD#25.
+157 257 01:52:44 973.673 Console: WARNING! Error is 38, 'Function not implemented'.
+157 261 01:52:44 977.053 Console: WARNING! Can't query FD#25.
+157 261 01:52:44 977.482 Console: WARNING! Error is 38, 'Function not implemented'.
+157 258 01:52:44 981.628 Console: WARNING! Can't query FD#25.
+157 258 01:52:44 981.998 Console: WARNING! Error is 38, 'Function not implemented'.
+157 157 01:52:44 986.421 Console: WARNING! Can't query FD#25.
+157 157 01:52:44 986.747 Console: WARNING! Error is 38, 'Function not implemented'.
+157 262 01:52:44 990.528 Console: WARNING! Can't query FD#25.
+157 262 01:52:44 990.938 Console: WARNING! Error is 38, 'Function not implemented'.
+157 157 01:52:44 994.422 Console: WARNING! Can't query FD#25.
+157 157 01:52:44 994.797 Console: WARNING! Error is 38, 'Function not implemented'.
+157 157 01:52:45 000.600 Console: WARNING! Can't query FD#25.
+157 157 01:52:45 001.029 Console: WARNING! Error is 38, 'Function not implemented'.
+157 272 01:52:45 005.380 Console: WARNING! Can't query FD#25.
+157 272 01:52:45 005.696 Console: WARNING! Error is 38, 'Function not implemented'.
+157 273 01:52:45 009.609 Console: WARNING! Can't query FD#25.
+157 273 01:52:45 010.021 Console: WARNING! Error is 38, 'Function not implemented'.
+157 276 01:52:45 013.560 Console: WARNING! Can't query FD#25.
+157 276 01:52:45 013.935 Console: WARNING! Error is 38, 'Function not implemented'.
+157 278 01:52:45 017.944 Console: WARNING! Can't query FD#25.
+157 278 01:52:45 047.136 Console: WARNING! Error is 38, 'Function not implemented'.
+157 279 01:52:45 052.009 Console: WARNING! Can't query FD#25.
+157 279 01:52:45 052.424 Console: WARNING! Error is 38, 'Function not implemented'.
+157 280 01:52:45 056.790 Console: WARNING! Can't query FD#25.
+157 280 01:52:45 057.274 Console: WARNING! Error is 38, 'Function not implemented'.
+157 277 01:52:45 062.229 Console: WARNING! Can't query FD#25.
+157 277 01:52:45 062.716 Console: WARNING! Error is 38, 'Function not implemented'.
+157 277 01:52:45 066.875 Console: WARNING! Can't query FD#25.
+157 277 01:52:45 067.492 Console: WARNING! Error is 38, 'Function not implemented'.
+157 277 01:52:45 072.731 Console: WARNING! Can't query FD#25.
+157 277 01:52:45 073.215 Console: WARNING! Error is 38, 'Function not implemented'.
+157 277 01:52:45 077.263 Console: WARNING! Can't query FD#25.
+157 277 01:52:45 077.735 Console: WARNING! Error is 38, 'Function not implemented'.
+157 277 01:52:45 084.558 Console: WARNING! Can't query FD#25.
+157 277 01:52:45 084.954 Console: WARNING! Error is 38, 'Function not implemented'.
+157 283 01:52:45 088.721 Console: WARNING! Can't query FD#25.
+157 283 01:52:45 089.166 Console: WARNING! Error is 38, 'Function not implemented'.
+157 281 01:52:45 093.200 Console: WARNING! Can't query FD#25.
+157 281 01:52:45 093.532 Console: WARNING! Error is 38, 'Function not implemented'.
+157 282 01:52:45 097.839 Console: WARNING! Can't query FD#25.
+157 282 01:52:45 098.321 Console: WARNING! Error is 38, 'Function not implemented'.
+157 157 01:52:45 102.506 Console: WARNING! Can't query FD#25.
+157 157 01:52:45 103.187 Console: WARNING! Error is 38, 'Function not implemented'.
+157 157 01:52:45 143.361 UiUtility: WARNING! Couldn't get window manager name.
+157 157 01:52:45 163.220 ClientThread: Creating new thread.
+157 157 01:52:45 598.907 MonitorService: Drag and drop feature is disabled.
+157 239 01:52:49 749.665 Console: WARNING! Can't query FD#18.
+157 239 01:52:49 750.068 Console: WARNING! Error is 38, 'Function not implemented'.
+157 239 01:52:49 754.253 Console: WARNING! Can't query FD#18.
+157 239 01:52:49 754.665 Console: WARNING! Error is 38, 'Function not implemented'.
+157 239 01:52:49 758.455 Console: WARNING! Can't query FD#18.
+157 239 01:52:49 758.784 Console: WARNING! Error is 38, 'Function not implemented'.
+393 393 01:52:49 956.893 Console: WARNING! Can't query FD#3.
+393 393 01:52:49 957.314 Console: WARNING! Error is 38, 'Function not implemented'.
+157 157 01:52:49 965.835 Console: WARNING! Can't query FD#18.
+157 157 01:52:49 966.270 Console: WARNING! Error is 38, 'Function not implemented'.
+157 157 01:53:04 852.112 MonitorDB: Adding user 'generic'.
+157 157 01:53:04 853.202 ClientSlave: Starting config slave with command get.
+157 157 01:53:05 052.138 MonitorDB: There are '1' users.
+157 157 01:53:07 160.754 ClientSlave: Starting config slave with command get.
+157 157 01:53:09 317.929 ClientSlave: Starting config slave with command get.
+157 157 01:53:11 473.203 ClientSlave: Starting config slave with command get.
+157 157 01:53:13 630.913 ClientSlave: Starting config slave with command get.
+157 157 01:53:15 788.853 ClientSlave: Starting config slave with command get.

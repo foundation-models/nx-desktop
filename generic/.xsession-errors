@@ -1,0 +1,804 @@
+Xsession: X session started for generic at Fri Jul 24 00:33:04 UTC 2020
+localuser:generic being added to access control list
+/etc/X11/Xsession: 3: [: x: unexpected operator
+Gtk-Message: Failed to load module "gail"
+Gtk-Message: Failed to load module "atk-bridge"
+Failed to run gnome-keyring-daemon: Failed to execute child process "gnome-keyring-daemon" (Operation not permitted)
+x-session-manager[229]: WARNING: Could not connect to ConsoleKit: Failed to connect to socket /var/run/dbus/system_bus_socket: No such file or directory
+x-session-manager[229]: WARNING: Could not connect to ConsoleKit: Failed to connect to socket /var/run/dbus/system_bus_socket: No such file or directory
+x-session-manager[229]: WARNING: Unable to find provider '' of required component 'dock'
+Gtk-Message: Failed to load module "gail"
+Gtk-Message: Failed to load module "atk-bridge"
+Gtk-Message: Failed to load module "gail"
+Gtk-Message: Failed to load module "atk-bridge"
+
+** (mate-settings-daemon:336): WARNING **: Disable DEBUG
+Gtk-Message: Failed to load module "gail"
+Gtk-Message: Failed to load module "atk-bridge"
+x-session-manager[229]: WARNING: Could not launch application 'nm-applet.desktop': Unable to start application: Failed to execute child process "nm-applet" (No such file or directory)
+x-session-manager[229]: WARNING: Could not launch application 'gnome-keyring-pkcs11.desktop': Unable to start application: Failed to execute child process "/usr/bin/gnome-keyring-daemon" (Operation not permitted)
+Gtk-Message: Failed to load module "gail"
+Gtk-Message: Failed to load module "atk-bridge"
+
+(mate-settings-daemon:336): GVFS-RemoteVolumeMonitor-WARNING **: remote volume monitor with dbus name org.gtk.vfs.UDisks2VolumeMonitor is not supported
+x-session-manager[229]: WARNING: Could not launch application 'gnome-keyring-secrets.desktop': Unable to start application: Failed to execute child process "/usr/bin/gnome-keyring-daemon" (Operation not permitted)
+/usr/lib/ubuntu-mate/ubuntu-mate-tilda: line 17: tilda: command not found
+
+(mate-panel:340): GVFS-RemoteVolumeMonitor-WARNING **: remote volume monitor with dbus name org.gtk.vfs.UDisks2VolumeMonitor is not supported
+x-session-manager[229]: WARNING: Could not launch application 'gnome-keyring-ssh.desktop': Unable to start application: Failed to execute child process "/usr/bin/gnome-keyring-daemon" (Operation not permitted)
+Gtk-Message: Failed to load module "gail"
+Gtk-Message: Failed to load module "atk-bridge"
+Gtk-Message: Failed to load module "gail"
+Gtk-Message: Failed to load module "atk-bridge"
+Gtk-Message: Failed to load module "gail"
+Gtk-Message: Failed to load module "atk-bridge"
+
+(polkit-mate-authentication-agent-1:382): polkit-mate-1-WARNING **: Error getting authority: Error initializing authority: Could not connect: No such file or directory
+
+** (mate-screensaver:362): WARNING **: Config key not handled: lock-dialog-theme
+
+** (mate-screensaver:362): WARNING **: Config key not handled: disable-command-line
+
+** (mate-screensaver:362): WARNING **: Config key not handled: disable-application-handlers
+
+** (mate-screensaver:362): WARNING **: Config key not handled: disable-printing
+
+** (mate-screensaver:362): WARNING **: Config key not handled: disable-log-out
+
+** (mate-screensaver:362): WARNING **: Config key not handled: disable-theme-settings
+
+** (mate-screensaver:362): WARNING **: Config key not handled: disable-print-setup
+
+** (mate-screensaver:362): WARNING **: Config key not handled: disable-save-to-disk
+
+** (mate-screensaver:362): WARNING **: Config key not handled: lock-dialog-theme
+
+** (mate-screensaver:362): WARNING **: Config key not handled: disable-command-line
+
+** (mate-screensaver:362): WARNING **: Config key not handled: disable-application-handlers
+
+** (mate-screensaver:362): WARNING **: Config key not handled: disable-printing
+
+** (mate-screensaver:362): WARNING **: Config key not handled: disable-log-out
+
+** (mate-screensaver:362): WARNING **: Config key not handled: disable-theme-settings
+
+** (mate-screensaver:362): WARNING **: Config key not handled: disable-print-setup
+
+** (mate-screensaver:362): WARNING **: Config key not handled: disable-save-to-disk
+
+** (mate-screensaver:362): WARNING **: Config key not handled: lock-dialog-theme
+
+** (mate-screensaver:362): WARNING **: Config key not handled: disable-command-line
+
+** (mate-screensaver:362): WARNING **: Config key not handled: disable-application-handlers
+
+** (mate-screensaver:362): WARNING **: Config key not handled: disable-printing
+
+** (mate-screensaver:362): WARNING **: Config key not handled: disable-log-out
+
+** (mate-screensaver:362): WARNING **: Config key not handled: disable-theme-settings
+
+** (mate-screensaver:362): WARNING **: Config key not handled: disable-print-setup
+
+** (mate-screensaver:362): WARNING **: Config key not handled: disable-save-to-disk
+
+** (mate-screensaver:362): WARNING **: Config key not handled: lock-dialog-theme
+
+** (mate-screensaver:362): WARNING **: Config key not handled: disable-command-line
+
+** (mate-screensaver:362): WARNING **: Config key not handled: disable-application-handlers
+
+** (mate-screensaver:362): WARNING **: Config key not handled: disable-printing
+
+** (mate-screensaver:362): WARNING **: Config key not handled: disable-log-out
+
+** (mate-screensaver:362): WARNING **: Config key not handled: disable-theme-settings
+
+** (mate-screensaver:362): WARNING **: Config key not handled: disable-print-setup
+
+** (mate-screensaver:362): WARNING **: Config key not handled: disable-save-to-disk
+*** ERROR ***
+TI:00:33:05	TH:0x17d2980	FI:gpm-main.c	FN:main,215
+ - This program cannot start until you start the dbus system service.
+It is <b>strongly recommended</b> you reboot your computer after starting this service.
+Traceback:
+	mate-power-manager() [0x41887f]
+	mate-power-manager() [0x4083f3]
+	/lib/x86_64-linux-gnu/libc.so.6(__libc_start_main+0xf0) [0x7effe8066830]
+	mate-power-manager() [0x408469]
+
+** (mate-settings-daemon:336): WARNING **: Disable DEBUG
+grep: /home/generic/.xinputrc: No such file or directory
+
+** (mate-settings-daemon:336): WARNING **: Disable DEBUG
+Initializing caja-main-menu extension
+Initializing caja-image-converter extension
+Initializing caja-open-terminal extension
+** Message: Initializing gksu extension...
+
+(caja:359): GVFS-RemoteVolumeMonitor-WARNING **: remote volume monitor with dbus name org.gtk.vfs.UDisks2VolumeMonitor is not supported
+
+** (mate-settings-daemon:336): WARNING **: Disable DEBUG
+
+** (mate-settings-daemon:336): WARNING **: Disable DEBUG
+Activating service name='org.a11y.atspi.Registry'
+
+** (mate-settings-daemon:336): WARNING **: Disable DEBUG
+Successfully activated service 'org.a11y.atspi.Registry'
+SpiRegistry daemon is running with well-known name - org.a11y.atspi.Registry
+
+** (mate-settings-daemon:336): WARNING **: Disable DEBUG
+x-session-manager[229]: WARNING: Could not connect to ConsoleKit: Failed to connect to socket /var/run/dbus/system_bus_socket: No such file or directory
+x-session-manager[229]: WARNING: Could not connect to ConsoleKit: Failed to connect to socket /var/run/dbus/system_bus_socket: No such file or directory
+
+** (at-spi2-registryd:545): WARNING **: Failed to register client: GDBus.Error:org.gnome.SessionManager.AlreadyRegistered: Unable to register client
+
+** (at-spi2-registryd:545): WARNING **: Unable to register client with session manager
+
+** (caja:359): WARNING **: Can not calculate _NET_NUMBER_OF_DESKTOPS
+
+** (caja:359): WARNING **: Can not calculate _NET_NUMBER_OF_DESKTOPS
+
+** (caja:359): WARNING **: Can not get _NET_WORKAREA
+
+** (caja:359): WARNING **: Can not determine workarea, guessing at layout
+/usr/lib/python3/dist-packages/blueman/plugins/applet/AppIndicator.py:8: PyGIWarning: AppIndicator3 was imported without specifying a version first. Use gi.require_version('AppIndicator3', '0.1') before import to ensure that the right version gets loaded.
+  from gi.repository import AppIndicator3 as girAppIndicator
+Traceback (most recent call last):
+  File "/usr/lib/python3/dist-packages/blueman/plugins/BasePlugin.py", line 54, in _load
+    self.on_load(parent)
+  File "/usr/lib/python3/dist-packages/blueman/plugins/applet/GameControllerWakelock.py", line 26, in on_load
+    self.signals.Handle("bluez", bluez.Device(), self.on_device_property_changed, "PropertyChanged", path_keyword="path")
+  File "/usr/lib/python3/dist-packages/blueman/bluez/errors.py", line 148, in warp
+    raise parse_dbus_error(exception)
+  File "/usr/lib/python3/dist-packages/blueman/bluez/errors.py", line 146, in warp
+    return func(*args, **kwargs)
+  File "/usr/lib/python3/dist-packages/blueman/bluez/Device.py", line 19, in __init__
+    super(Device, self).__init__(interface, obj_path)
+  File "/usr/lib/python3/dist-packages/blueman/bluez/PropertiesBlueZInterface.py", line 13, in __init__
+    super(PropertiesBlueZInterface, self).__init__(interface, obj_path)
+  File "/usr/lib/python3/dist-packages/blueman/bluez/BlueZInterface.py", line 37, in __init__
+    self.__bus = dbus.SystemBus()
+  File "/usr/lib/python3/dist-packages/dbus/_dbus.py", line 194, in __new__
+    private=private)
+  File "/usr/lib/python3/dist-packages/dbus/_dbus.py", line 100, in __new__
+    bus = BusConnection.__new__(subclass, bus_type, mainloop=mainloop)
+  File "/usr/lib/python3/dist-packages/dbus/bus.py", line 122, in __new__
+    bus = cls._new_for_bus(address_or_type, mainloop=mainloop)
+dbus.exceptions.DBusException: org.freedesktop.DBus.Error.FileNotFound: Failed to connect to socket /var/run/dbus/system_bus_socket: No such file or directory
+Traceback (most recent call last):
+  File "/usr/lib/python3/dist-packages/blueman/plugins/BasePlugin.py", line 54, in _load
+    self.on_load(parent)
+  File "/usr/lib/python3/dist-packages/blueman/plugins/applet/NMPANSupport.py", line 127, in on_load
+    self.bus = dbus.SystemBus()
+  File "/usr/lib/python3/dist-packages/dbus/_dbus.py", line 194, in __new__
+    private=private)
+  File "/usr/lib/python3/dist-packages/dbus/_dbus.py", line 100, in __new__
+    bus = BusConnection.__new__(subclass, bus_type, mainloop=mainloop)
+  File "/usr/lib/python3/dist-packages/dbus/bus.py", line 122, in __new__
+    bus = cls._new_for_bus(address_or_type, mainloop=mainloop)
+dbus.exceptions.DBusException: org.freedesktop.DBus.Error.FileNotFound: Failed to connect to socket /var/run/dbus/system_bus_socket: No such file or directory
+Traceback (most recent call last):
+  File "/usr/lib/python3/dist-packages/blueman/plugins/BasePlugin.py", line 54, in _load
+    self.on_load(parent)
+  File "/usr/lib/python3/dist-packages/blueman/plugins/applet/ShowConnected.py", line 31, in on_load
+    self.signals.Handle('bluez', bluez.Device(), self.on_device_property_changed, 'PropertyChanged')
+  File "/usr/lib/python3/dist-packages/blueman/bluez/errors.py", line 148, in warp
+    raise parse_dbus_error(exception)
+  File "/usr/lib/python3/dist-packages/blueman/bluez/errors.py", line 146, in warp
+    return func(*args, **kwargs)
+  File "/usr/lib/python3/dist-packages/blueman/bluez/Device.py", line 19, in __init__
+    super(Device, self).__init__(interface, obj_path)
+  File "/usr/lib/python3/dist-packages/blueman/bluez/PropertiesBlueZInterface.py", line 13, in __init__
+    super(PropertiesBlueZInterface, self).__init__(interface, obj_path)
+  File "/usr/lib/python3/dist-packages/blueman/bluez/BlueZInterface.py", line 37, in __init__
+    self.__bus = dbus.SystemBus()
+  File "/usr/lib/python3/dist-packages/dbus/_dbus.py", line 194, in __new__
+    private=private)
+  File "/usr/lib/python3/dist-packages/dbus/_dbus.py", line 100, in __new__
+    bus = BusConnection.__new__(subclass, bus_type, mainloop=mainloop)
+  File "/usr/lib/python3/dist-packages/dbus/bus.py", line 122, in __new__
+    bus = cls._new_for_bus(address_or_type, mainloop=mainloop)
+dbus.exceptions.DBusException: org.freedesktop.DBus.Error.FileNotFound: Failed to connect to socket /var/run/dbus/system_bus_socket: No such file or directory
+Traceback (most recent call last):
+  File "/usr/lib/python3/dist-packages/blueman/plugins/BasePlugin.py", line 54, in _load
+    self.on_load(parent)
+  File "/usr/lib/python3/dist-packages/blueman/plugins/applet/Networking.py", line 30, in on_load
+    self.load_nap_settings()
+  File "/usr/lib/python3/dist-packages/blueman/plugins/applet/Networking.py", line 49, in load_nap_settings
+    m = Mechanism()
+  File "/usr/lib/python3/dist-packages/blueman/main/Mechanism.py", line 22, in __init__
+    self.bus = dbus.SystemBus()
+  File "/usr/lib/python3/dist-packages/dbus/_dbus.py", line 194, in __new__
+    private=private)
+  File "/usr/lib/python3/dist-packages/dbus/_dbus.py", line 100, in __new__
+    bus = BusConnection.__new__(subclass, bus_type, mainloop=mainloop)
+  File "/usr/lib/python3/dist-packages/dbus/bus.py", line 122, in __new__
+    bus = cls._new_for_bus(address_or_type, mainloop=mainloop)
+dbus.exceptions.DBusException: org.freedesktop.DBus.Error.FileNotFound: Failed to connect to socket /var/run/dbus/system_bus_socket: No such file or directory
+Traceback (most recent call last):
+  File "/usr/lib/python3/dist-packages/blueman/plugins/BasePlugin.py", line 54, in _load
+    self.on_load(parent)
+  File "/usr/lib/python3/dist-packages/blueman/plugins/applet/AuthAgent.py", line 28, in on_load
+    self.agent_manager = Bluez.AgentManager()
+  File "/usr/lib/python3/dist-packages/blueman/bluez/errors.py", line 148, in warp
+    raise parse_dbus_error(exception)
+  File "/usr/lib/python3/dist-packages/blueman/bluez/errors.py", line 146, in warp
+    return func(*args, **kwargs)
+  File "/usr/lib/python3/dist-packages/blueman/bluez/AgentManager.py", line 15, in __init__
+    super(AgentManager, self).__init__(interface, '/org/bluez')
+  File "/usr/lib/python3/dist-packages/blueman/bluez/BlueZInterface.py", line 37, in __init__
+    self.__bus = dbus.SystemBus()
+  File "/usr/lib/python3/dist-packages/dbus/_dbus.py", line 194, in __new__
+    private=private)
+  File "/usr/lib/python3/dist-packages/dbus/_dbus.py", line 100, in __new__
+    bus = BusConnection.__new__(subclass, bus_type, mainloop=mainloop)
+  File "/usr/lib/python3/dist-packages/dbus/bus.py", line 122, in __new__
+    bus = cls._new_for_bus(address_or_type, mainloop=mainloop)
+dbus.exceptions.DBusException: org.freedesktop.DBus.Error.FileNotFound: Failed to connect to socket /var/run/dbus/system_bus_socket: No such file or directory
+Traceback (most recent call last):
+  File "/usr/lib/python3/dist-packages/blueman/plugins/BasePlugin.py", line 54, in _load
+    self.on_load(parent)
+  File "/usr/lib/python3/dist-packages/blueman/plugins/applet/SerialManager.py", line 49, in on_load
+    self.signals.Handle('bluez', Bluez.Device(), self.on_device_property_changed, 'PropertyChanged',
+  File "/usr/lib/python3/dist-packages/blueman/bluez/errors.py", line 148, in warp
+    raise parse_dbus_error(exception)
+  File "/usr/lib/python3/dist-packages/blueman/bluez/errors.py", line 146, in warp
+    return func(*args, **kwargs)
+  File "/usr/lib/python3/dist-packages/blueman/bluez/Device.py", line 19, in __init__
+    super(Device, self).__init__(interface, obj_path)
+  File "/usr/lib/python3/dist-packages/blueman/bluez/PropertiesBlueZInterface.py", line 13, in __init__
+    super(PropertiesBlueZInterface, self).__init__(interface, obj_path)
+  File "/usr/lib/python3/dist-packages/blueman/bluez/BlueZInterface.py", line 37, in __init__
+    self.__bus = dbus.SystemBus()
+  File "/usr/lib/python3/dist-packages/dbus/_dbus.py", line 194, in __new__
+    private=private)
+  File "/usr/lib/python3/dist-packages/dbus/_dbus.py", line 100, in __new__
+    bus = BusConnection.__new__(subclass, bus_type, mainloop=mainloop)
+  File "/usr/lib/python3/dist-packages/dbus/bus.py", line 122, in __new__
+    bus = cls._new_for_bus(address_or_type, mainloop=mainloop)
+dbus.exceptions.DBusException: org.freedesktop.DBus.Error.FileNotFound: Failed to connect to socket /var/run/dbus/system_bus_socket: No such file or directory
+Traceback (most recent call last):
+  File "/usr/lib/python3/dist-packages/blueman/plugins/BasePlugin.py", line 54, in _load
+    self.on_load(parent)
+  File "/usr/lib/python3/dist-packages/blueman/plugins/applet/NMDUNSupport.py", line 103, in on_load
+    self.bus = dbus.SystemBus()
+  File "/usr/lib/python3/dist-packages/dbus/_dbus.py", line 194, in __new__
+    private=private)
+  File "/usr/lib/python3/dist-packages/dbus/_dbus.py", line 100, in __new__
+    bus = BusConnection.__new__(subclass, bus_type, mainloop=mainloop)
+  File "/usr/lib/python3/dist-packages/dbus/bus.py", line 122, in __new__
+    bus = cls._new_for_bus(address_or_type, mainloop=mainloop)
+dbus.exceptions.DBusException: org.freedesktop.DBus.Error.FileNotFound: Failed to connect to socket /var/run/dbus/system_bus_socket: No such file or directory
+Traceback (most recent call last):
+  File "/usr/lib/python3/dist-packages/blueman/plugins/BasePlugin.py", line 54, in _load
+    self.on_load(parent)
+  File "/usr/lib/python3/dist-packages/blueman/plugins/applet/Headset.py", line 32, in on_load
+    BluezHeadset().handle_signal(self.on_answer_requested, 'AnswerRequested')
+  File "/usr/lib/python3/dist-packages/blueman/bluez/errors.py", line 148, in warp
+    raise parse_dbus_error(exception)
+  File "/usr/lib/python3/dist-packages/blueman/bluez/errors.py", line 146, in warp
+    return func(*args, **kwargs)
+  File "/usr/lib/python3/dist-packages/blueman/bluez/Headset.py", line 18, in __init__
+    super(Headset, self).__init__(interface, obj_path)
+  File "/usr/lib/python3/dist-packages/blueman/bluez/PropertiesBlueZInterface.py", line 13, in __init__
+    super(PropertiesBlueZInterface, self).__init__(interface, obj_path)
+  File "/usr/lib/python3/dist-packages/blueman/bluez/BlueZInterface.py", line 37, in __init__
+    self.__bus = dbus.SystemBus()
+  File "/usr/lib/python3/dist-packages/dbus/_dbus.py", line 194, in __new__
+    private=private)
+  File "/usr/lib/python3/dist-packages/dbus/_dbus.py", line 100, in __new__
+    bus = BusConnection.__new__(subclass, bus_type, mainloop=mainloop)
+  File "/usr/lib/python3/dist-packages/dbus/bus.py", line 122, in __new__
+    bus = cls._new_for_bus(address_or_type, mainloop=mainloop)
+dbus.exceptions.DBusException: org.freedesktop.DBus.Error.FileNotFound: Failed to connect to socket /var/run/dbus/system_bus_socket: No such file or directory
+ERROR:dbus.proxies:Introspect error on :1.27:/: dbus.exceptions.DBusException: org.freedesktop.DBus.Error.NoReply: Message recipient disconnected from message bus without replying
+x-session-manager[229]: WARNING: Could not connect to ConsoleKit: Failed to connect to socket /var/run/dbus/system_bus_socket: No such file or directory
+x-session-manager[229]: WARNING: Could not connect to ConsoleKit: Failed to connect to socket /var/run/dbus/system_bus_socket: No such file or directory
+Traceback (most recent call last):
+  File "/usr/lib/python3/dist-packages/blueman/plugins/BasePlugin.py", line 54, in _load
+    self.on_load(parent)
+  File "/usr/lib/python3/dist-packages/blueman/plugins/applet/TransferService.py", line 155, in on_load
+    self._manager = obex.Manager()
+  File "/usr/lib/python3/dist-packages/blueman/bluez/obex/Manager.py", line 20, in __init__
+    if self.__class__.get_interface_version()[0] < 5:
+  File "/usr/lib/python3/dist-packages/blueman/bluez/obex/Base.py", line 24, in get_interface_version
+    introspection = dbus.Interface(obj, 'org.freedesktop.DBus.Introspectable').Introspect()
+  File "/usr/lib/python3/dist-packages/dbus/proxies.py", line 70, in __call__
+    return self._proxy_method(*args, **keywords)
+  File "/usr/lib/python3/dist-packages/dbus/proxies.py", line 145, in __call__
+    **keywords)
+  File "/usr/lib/python3/dist-packages/dbus/connection.py", line 651, in call_blocking
+    message, timeout)
+dbus.exceptions.DBusException: org.freedesktop.DBus.Error.ServiceUnknown: The name :1.27 was not provided by any .service files
+Exception ignored in: <bound method Base.__del__ of <Manager.Manager object at 0x7fcd1c166d38 (uninitialized at 0x(nil))>>
+Traceback (most recent call last):
+  File "/usr/lib/python3/dist-packages/blueman/bluez/obex/Base.py", line 47, in __del__
+    self.__signals.DisconnectAll()
+AttributeError: 'Manager' object has no attribute '_Base__signals'
+Traceback (most recent call last):
+  File "/usr/lib/python3/dist-packages/blueman/plugins/BasePlugin.py", line 54, in _load
+    self.on_load(parent)
+  File "/usr/lib/python3/dist-packages/blueman/plugins/applet/PowerManager.py", line 47, in on_load
+    self.signals.Handle('bluez', Bluez.Adapter(), self.adapter_property_changed, "PropertyChanged",
+  File "/usr/lib/python3/dist-packages/blueman/bluez/errors.py", line 148, in warp
+    raise parse_dbus_error(exception)
+  File "/usr/lib/python3/dist-packages/blueman/bluez/errors.py", line 146, in warp
+    return func(*args, **kwargs)
+  File "/usr/lib/python3/dist-packages/blueman/bluez/Adapter.py", line 19, in __init__
+    proxy = dbus.SystemBus().get_object('org.bluez', '/', follow_name_owner_changes=True)
+  File "/usr/lib/python3/dist-packages/dbus/_dbus.py", line 194, in __new__
+    private=private)
+  File "/usr/lib/python3/dist-packages/dbus/_dbus.py", line 100, in __new__
+    bus = BusConnection.__new__(subclass, bus_type, mainloop=mainloop)
+  File "/usr/lib/python3/dist-packages/dbus/bus.py", line 122, in __new__
+    bus = cls._new_for_bus(address_or_type, mainloop=mainloop)
+dbus.exceptions.DBusException: org.freedesktop.DBus.Error.FileNotFound: Failed to connect to socket /var/run/dbus/system_bus_socket: No such file or directory
+blueman-applet version 2.0.4 starting
+Deleting plugin instance <blueman.plugins.applet.GameControllerWakelock.GameControllerWakelock object at 0x7fcd1c1b3f28>
+Deleting plugin instance <blueman.plugins.applet.NMPANSupport.NMPANSupport object at 0x7fcd1c15c9e8>
+Deleting plugin instance <blueman.plugins.applet.ShowConnected.ShowConnected object at 0x7fcd1c15c9e8>
+Deleting plugin instance <blueman.plugins.applet.AuthAgent.AuthAgent object at 0x7fcd1c15cb38>
+Deleting plugin instance <blueman.plugins.applet.SerialManager.SerialManager object at 0x7fcd1c15cb38>
+Deleting plugin instance <blueman.plugins.applet.NMDUNSupport.NMDUNSupport object at 0x7fcd1c15cb38>
+Deleting plugin instance <blueman.plugins.applet.Headset.Headset object at 0x7fcd1c15cc18>
+Deleting plugin instance <blueman.plugins.applet.TransferService.TransferService object at 0x7fcd1c15cc18>
+Traceback (most recent call last):
+  File "/usr/bin/blueman-applet", line 121, in <module>
+    BluemanApplet()
+  File "/usr/bin/blueman-applet", line 67, in __init__
+    self.bus = dbus.SystemBus()
+  File "/usr/lib/python3/dist-packages/dbus/_dbus.py", line 194, in __new__
+    private=private)
+  File "/usr/lib/python3/dist-packages/dbus/_dbus.py", line 100, in __new__
+    bus = BusConnection.__new__(subclass, bus_type, mainloop=mainloop)
+  File "/usr/lib/python3/dist-packages/dbus/bus.py", line 122, in __new__
+    bus = cls._new_for_bus(address_or_type, mainloop=mainloop)
+dbus.exceptions.DBusException: org.freedesktop.DBus.Error.FileNotFound: Failed to connect to socket /var/run/dbus/system_bus_socket: No such file or directory
+Deleting plugin instance <blueman.plugins.applet.Networking.Networking object at 0x7fcd1c15c9e8>
+Failure: Module initialization failed
+Gtk-Message: Failed to load module "gail"
+Gtk-Message: Failed to load module "atk-bridge"
+Window manager warning: Failed to load theme "Ambiant-MATE": Failed to find a valid file for theme Ambiant-MATE
+
+Window manager warning: Failed to load theme "Simple": Failed to find a valid file for theme Simple
+
+
+(mate-settings-daemon:336): MateDesktop-CRITICAL **: mate_bg_load_from_gsettings: assertion 'MATE_IS_BG (bg)' failed
+
+(mate-settings-daemon:336): MateDesktop-CRITICAL **: mate_bg_load_from_gsettings: assertion 'G_IS_SETTINGS (settings)' failed
+
+(mate-settings-daemon:336): GLib-GObject-WARNING **: invalid (NULL) pointer instance
+
+(mate-settings-daemon:336): GLib-GObject-CRITICAL **: g_signal_connect_data: assertion 'G_TYPE_CHECK_INSTANCE (instance)' failed
+Gtk-Message: Failed to load module "gail"
+Gtk-Message: Failed to load module "atk-bridge"
+
+** (mate-settings-daemon:336): WARNING **: Disable DEBUG
+Xsession: X session started for generic at Fri Jul 24 01:17:55 UTC 2020
+localuser:generic being added to access control list
+/etc/X11/Xsession: 3: [: x: unexpected operator
+Gtk-Message: Failed to load module "gail"
+Gtk-Message: Failed to load module "atk-bridge"
+x-session-manager[94]: WARNING: Could not connect to Systemd: Failed to connect to socket /var/run/dbus/system_bus_socket: No such file or directory
+x-session-manager[94]: WARNING: Could not connect to Systemd: Failed to connect to socket /var/run/dbus/system_bus_socket: No such file or directory
+x-session-manager[94]: WARNING: Unable to find provider '' of required component 'dock'
+Gtk-Message: Failed to load module "gail"
+Gtk-Message: Failed to load module "atk-bridge"
+Gtk-Message: Failed to load module "gail"
+Gtk-Message: Failed to load module "atk-bridge"
+Gtk-Message: Failed to load module "gail"
+Gtk-Message: Failed to load module "atk-bridge"
+x-session-manager[94]: WARNING: Could not launch application 'nm-applet.desktop': Unable to start application: Failed to execute child process "nm-applet" (No such file or directory)
+/usr/lib/ubuntu-mate/ubuntu-mate-tilda: line 17: tilda: command not found
+Gtk-Message: Failed to load module "gail"
+Gtk-Message: Failed to load module "atk-bridge"
+GNOME_KEYRING_CONTROL=/home/generic/.cache/keyring-585CO0
+SSH_AUTH_SOCK=/home/generic/.cache/keyring-585CO0/ssh
+grep: /home/generic/.xinputrc: No such file or directory
+GNOME_KEYRING_CONTROL=/home/generic/.cache/keyring-585CO0
+SSH_AUTH_SOCK=/home/generic/.cache/keyring-585CO0/ssh
+
+(mate-settings-daemon:191): GVFS-RemoteVolumeMonitor-WARNING **: remote volume monitor with dbus name org.gtk.vfs.UDisks2VolumeMonitor is not supported
+
+(mate-panel:201): GVFS-RemoteVolumeMonitor-WARNING **: remote volume monitor with dbus name org.gtk.vfs.UDisks2VolumeMonitor is not supported
+Gtk-Message: Failed to load module "gail"
+Gtk-Message: Failed to load module "atk-bridge"
+Gtk-Message: Failed to load module "gail"
+Gtk-Message: Failed to load module "atk-bridge"
+GNOME_KEYRING_CONTROL=/home/generic/.cache/keyring-585CO0
+SSH_AUTH_SOCK=/home/generic/.cache/keyring-585CO0/ssh
+*** ERROR ***
+TI:01:17:55	TH:0x11c2980	FI:gpm-main.c	FN:main,215
+ - This program cannot start until you start the dbus system service.
+It is <b>strongly recommended</b> you reboot your computer after starting this service.
+Traceback:
+	mate-power-manager() [0x41887f]
+	mate-power-manager() [0x4083f3]
+	/lib/x86_64-linux-gnu/libc.so.6(__libc_start_main+0xf0) [0x7ff18aec9830]
+	mate-power-manager() [0x408469]
+
+(polkit-mate-authentication-agent-1:272): polkit-mate-1-WARNING **: Error getting authority: Error initializing authority: Could not connect: No such file or directory
+Gtk-Message: Failed to load module "gail"
+Gtk-Message: Failed to load module "atk-bridge"
+Traceback (most recent call last):
+  File "/usr/bin/blueman-applet", line 12, in <module>
+    import dbus
+ModuleNotFoundError: No module named 'dbus'
+Failure: Module initialization failed
+x-session-manager[94]: WARNING: Could not connect to Systemd: Failed to connect to socket /var/run/dbus/system_bus_socket: No such file or directory
+x-session-manager[94]: WARNING: Could not connect to Systemd: Failed to connect to socket /var/run/dbus/system_bus_socket: No such file or directory
+Initializing caja-main-menu extension
+Initializing caja-image-converter extension
+Initializing caja-open-terminal extension
+** Message: Initializing gksu extension...
+
+(caja:229): GVFS-RemoteVolumeMonitor-WARNING **: remote volume monitor with dbus name org.gtk.vfs.UDisks2VolumeMonitor is not supported
+
+** (caja:229): WARNING **: Can not calculate _NET_NUMBER_OF_DESKTOPS
+
+** (caja:229): WARNING **: Can not calculate _NET_NUMBER_OF_DESKTOPS
+
+** (caja:229): WARNING **: Can not get _NET_WORKAREA
+
+** (caja:229): WARNING **: Can not determine workarea, guessing at layout
+x-session-manager[94]: WARNING: Could not connect to Systemd: Failed to connect to socket /var/run/dbus/system_bus_socket: No such file or directory
+x-session-manager[94]: WARNING: Could not connect to Systemd: Failed to connect to socket /var/run/dbus/system_bus_socket: No such file or directory
+Gtk-Message: Failed to load module "gail"
+Gtk-Message: Failed to load module "atk-bridge"
+Window manager warning: Failed to load theme "Ambiant-MATE": Failed to find a valid file for theme Ambiant-MATE
+
+Window manager warning: Failed to load theme "Simple": Failed to find a valid file for theme Simple
+
+Gtk-Message: Failed to load module "gail"
+Gtk-Message: Failed to load module "atk-bridge"
+
+** (mate-settings-daemon:191): WARNING **: Disable DEBUG
+
+** (mate-settings-daemon:191): WARNING **: Disable DEBUG
+Xsession: X session started for ali at Fri Jul 24 01:47:10 UTC 2020
+localuser:ali being added to access control list
+/etc/X11/Xsession: 3: [: x: unexpected operator
+Gtk-Message: Failed to load module "gail"
+Gtk-Message: Failed to load module "atk-bridge"
+x-session-manager[1560]: WARNING: Could not connect to Systemd: Failed to connect to socket /var/run/dbus/system_bus_socket: No such file or directory
+x-session-manager[1560]: WARNING: Could not connect to Systemd: Failed to connect to socket /var/run/dbus/system_bus_socket: No such file or directory
+x-session-manager[1560]: WARNING: Unable to find provider '' of required component 'dock'
+Gtk-Message: Failed to load module "gail"
+Gtk-Message: Failed to load module "atk-bridge"
+Gtk-Message: Failed to load module "gail"
+Gtk-Message: Failed to load module "atk-bridge"
+Gtk-Message: Failed to load module "gail"
+Gtk-Message: Failed to load module "atk-bridge"
+
+(mate-panel:1686): GVFS-RemoteVolumeMonitor-WARNING **: remote volume monitor with dbus name org.gtk.vfs.UDisks2VolumeMonitor is not supported
+
+(mate-settings-daemon:1671): GVFS-RemoteVolumeMonitor-WARNING **: remote volume monitor with dbus name org.gtk.vfs.UDisks2VolumeMonitor is not supported
+Gtk-Message: Failed to load module "gail"
+Gtk-Message: Failed to load module "atk-bridge"
+x-session-manager[1560]: WARNING: Could not launch application 'nm-applet.desktop': Unable to start application: Failed to execute child process "nm-applet" (No such file or directory)
+/usr/lib/ubuntu-mate/ubuntu-mate-tilda: line 17: tilda: command not found
+GNOME_KEYRING_CONTROL=/home/ali/.cache/keyring-WFBZN0
+SSH_AUTH_SOCK=/home/ali/.cache/keyring-WFBZN0/ssh
+GNOME_KEYRING_CONTROL=/home/ali/.cache/keyring-WFBZN0
+SSH_AUTH_SOCK=/home/ali/.cache/keyring-WFBZN0/ssh
+grep: /home/ali/.xinputrcGtk-Message: Failed to load module "gail"
+: No such file or directory
+Gtk-Message: Failed to load module "atk-bridge"
+Gtk-Message: Failed to load module "gail"
+Gtk-Message: Failed to load module "atk-bridge"
+
+(polkit-mate-authentication-agent-1:1791): polkit-mate-1-WARNING **: Error getting authority: Error initializing authority: Could not connect: No such file or directory
+GNOME_KEYRING_CONTROL=/home/ali/.cache/keyring-WFBZN0
+SSH_AUTH_SOCK=/home/ali/.cache/keyring-WFBZN0/ssh
+Gtk-Message: Failed to load module "gail"
+Gtk-Message: Failed to load module "atk-bridge"
+*** ERROR ***
+TI:01:47:11	TH:0x143d980	FI:gpm-main.c	FN:main,215
+ - This program cannot start until you start the dbus system service.
+It is <b>strongly recommended</b> you reboot your computer after starting this service.
+Traceback:
+	mate-power-manager() [0x41887f]
+	mate-power-manager() [0x4083f3]
+	/lib/x86_64-linux-gnu/libc.so.6(__libc_start_main+0xf0) [0x7f8bf5afa830]
+	mate-power-manager() [0x408469]
+Traceback (most recent call last):
+  File "/usr/bin/blueman-applet", line 12, in <module>
+    import dbus
+ModuleNotFoundError: No module named 'dbus'
+x-session-manager[1560]: WARNING: Could not connect to Systemd: Failed to connect to socket /var/run/dbus/system_bus_socket: No such file or directory
+x-session-manager[1560]: WARNING: Could not connect to Systemd: Failed to connect to socket /var/run/dbus/system_bus_socket: No such file or directory
+Failure: Module initialization failed
+Initializing caja-main-menu extension
+Initializing caja-image-converter extension
+Initializing caja-open-terminal extension
+** Message: Initializing gksu extension...
+
+(caja:1728): GVFS-RemoteVolumeMonitor-WARNING **: remote volume monitor with dbus name org.gtk.vfs.UDisks2VolumeMonitor is not supported
+x-session-manager[1560]: WARNING: Could not connect to Systemd: Failed to connect to socket /var/run/dbus/system_bus_socket: No such file or directory
+x-session-manager[1560]: WARNING: Could not connect to Systemd: Failed to connect to socket /var/run/dbus/system_bus_socket: No such file or directory
+
+** (caja:1728): WARNING **: Can not calculate _NET_NUMBER_OF_DESKTOPS
+
+** (caja:1728): WARNING **: Can not calculate _NET_NUMBER_OF_DESKTOPS
+
+** (caja:1728): WARNING **: Can not get _NET_WORKAREA
+
+** (caja:1728): WARNING **: Can not determine workarea, guessing at layout
+Gtk-Message: Failed to load module "gail"
+Gtk-Message: Failed to load module "atk-bridge"
+Window manager warning: Failed to load theme "Ambiant-MATE": Failed to find a valid file for theme Ambiant-MATE
+
+Window manager warning: Failed to load theme "Simple": Failed to find a valid file for theme Simple
+
+Gtk-Message: Failed to load module "gail"
+Gtk-Message: Failed to load module "atk-bridge"
+
+** (mate-settings-daemon:1671): WARNING **: Disable DEBUG
+Xsession: X session started for generic at Fri Jul 24 01:52:44 UTC 2020
+localuser:generic being added to access control list
+/etc/X11/Xsession: 3: [: x: unexpected operator
+Gtk-Message: Failed to load module "gail"
+Gtk-Message: Failed to load module "atk-bridge"
+_IceTransSocketUNIXCreateListener: ...SocketCreateListener() failed
+_IceTransMakeAllCOTSServerListeners: server already running
+x-session-manager[118]: Gtk-CRITICAL: IA__gtk_main_quit: assertion 'main_loops != NULL' failed
+x-session-manager[118]: Gtk-CRITICAL: IA__gtk_main_quit: assertion 'main_loops != NULL' failed
+x-session-manager[118]: GLib-CRITICAL: g_setenv: assertion 'value != NULL' failed
+x-session-manager[118]: WARNING: Could not connect to Systemd: Failed to connect to socket /var/run/dbus/system_bus_socket: No such file or directory
+x-session-manager[118]: WARNING: Could not connect to Systemd: Failed to connect to socket /var/run/dbus/system_bus_socket: No such file or directory
+x-session-manager[118]: WARNING: Unable to find provider '' of required component 'dock'
+Gtk-Message: Failed to load module "gail"
+Gtk-Message: Failed to load module "atk-bridge"
+Gtk-Message: Failed to load module "gail"
+Gtk-Message: Failed to load module "atk-bridge"
+
+(mate-panel:597): GVFS-RemoteVolumeMonitor-WARNING **: remote volume monitor with dbus name org.gtk.vfs.UDisks2VolumeMonitor is not supported
+
+(mate-settings-daemon:593): GVFS-RemoteVolumeMonitor-WARNING **: remote volume monitor with dbus name org.gtk.vfs.UDisks2VolumeMonitor is not supported
+x-session-manager[118]: WARNING: Could not connect to Systemd: Failed to connect to socket /var/run/dbus/system_bus_socket: No such file or directory
+x-session-manager[118]: WARNING: Could not connect to Systemd: Failed to connect to socket /var/run/dbus/system_bus_socket: No such file or directory
+x-session-manager[118]: WARNING: Could not connect to Systemd: Failed to connect to socket /var/run/dbus/system_bus_socket: No such file or directory
+x-session-manager[118]: WARNING: Could not connect to Systemd: Failed to connect to socket /var/run/dbus/system_bus_socket: No such file or directory
+Xsession: X session started for generic at Fri Jul 24 01:53:51 UTC 2020
+localuser:generic being added to access control list
+/etc/X11/Xsession: 3: [: x: unexpected operator
+Gtk-Message: Failed to load module "gail"
+Gtk-Message: Failed to load module "atk-bridge"
+_IceTransSocketUNIXCreateListener: ...SocketCreateListener() failed
+_IceTransMakeAllCOTSServerListeners: server already running
+x-session-manager[118]: Gtk-CRITICAL: IA__gtk_main_quit: assertion 'main_loops != NULL' failed
+x-session-manager[118]: Gtk-CRITICAL: IA__gtk_main_quit: assertion 'main_loops != NULL' failed
+x-session-manager[118]: GLib-CRITICAL: g_setenv: assertion 'value != NULL' failed
+x-session-manager[118]: WARNING: Could not connect to Systemd: Failed to connect to socket /var/run/dbus/system_bus_socket: No such file or directory
+x-session-manager[118]: WARNING: Could not connect to Systemd: Failed to connect to socket /var/run/dbus/system_bus_socket: No such file or directory
+x-session-manager[118]: WARNING: Unable to find provider '' of required component 'dock'
+Gtk-Message: Failed to load module "gail"
+Gtk-Message: Failed to load module "atk-bridge"
+Gtk-Message: Failed to load module "gail"
+Gtk-Message: Failed to load module "atk-bridge"
+
+(mate-panel:621): GVFS-RemoteVolumeMonitor-WARNING **: remote volume monitor with dbus name org.gtk.vfs.UDisks2VolumeMonitor is not supported
+
+(mate-settings-daemon:617): GVFS-RemoteVolumeMonitor-WARNING **: remote volume monitor with dbus name org.gtk.vfs.UDisks2VolumeMonitor is not supported
+x-session-manager[118]: WARNING: Could not connect to Systemd: Failed to connect to socket /var/run/dbus/system_bus_socket: No such file or directory
+x-session-manager[118]: WARNING: Could not connect to Systemd: Failed to connect to socket /var/run/dbus/system_bus_socket: No such file or directory
+x-session-manager[118]: WARNING: Could not connect to Systemd: Failed to connect to socket /var/run/dbus/system_bus_socket: No such file or directory
+x-session-manager[118]: WARNING: Could not connect to Systemd: Failed to connect to socket /var/run/dbus/system_bus_socket: No such file or directory
+x-session-manager[118]: WARNING: Application 'mate-panel.desktop' failed to register before timeout
+Gtk-Message: Failed to load module "gail"
+Gtk-Message: Failed to load module "atk-bridge"
+Initializing caja-main-menu extension
+Initializing caja-image-converter extension
+Initializing caja-open-terminal extension
+** Message: Initializing gksu extension...
+
+(caja:712): GVFS-RemoteVolumeMonitor-WARNING **: remote volume monitor with dbus name org.gtk.vfs.UDisks2VolumeMonitor is not supported
+
+** (caja:712): WARNING **: Can not calculate _NET_NUMBER_OF_DESKTOPS
+
+** (caja:712): WARNING **: Can not calculate _NET_NUMBER_OF_DESKTOPS
+
+** (caja:712): WARNING **: Can not get _NET_WORKAREA
+
+** (caja:712): WARNING **: Can not determine workarea, guessing at layout
+x-session-manager[118]: WARNING: Application 'caja.desktop' failed to register before timeout
+x-session-manager[118]: WARNING: Could not launch application 'nm-applet.desktop': Unable to start application: Failed to execute child process "nm-applet" (No such file or directory)
+Gtk-Message: Failed to load module "gail"
+Gtk-Message: Failed to load module "atk-bridge"
+/usr/lib/ubuntu-mate/ubuntu-mate-tilda: line 17: tilda: command not found
+GNOME_KEYRING_CONTROL=/home/generic/.cache/keyring-DUN8N0
+SSH_AUTH_SOCK=/home/generic/.cache/keyring-DUN8N0/ssh
+GNOME_KEYRING_CONTROL=/home/generic/.cache/keyring-DUN8N0
+SSH_AUTH_SOCK=/home/generic/.cache/keyring-DUN8N0/ssh
+grep: /home/generic/.xinputrc: No such file or directory
+Gtk-Message: Failed to load module "gail"
+Gtk-Message: Failed to load module "atk-bridge"
+Gtk-Message: Failed to load module "gail"
+Gtk-Message: Failed to load module "atk-bridge"
+GNOME_KEYRING_CONTROL=/home/generic/.cache/keyring-DUN8N0
+SSH_AUTH_SOCK=/home/generic/.cache/keyring-DUN8N0/ssh
+Gtk-Message: Failed to load module "gail"
+Gtk-Message: Failed to load module "atk-bridge"
+
+(polkit-mate-authentication-agent-1:854): polkit-mate-1-WARNING **: Error getting authority: Error initializing authority: Could not connect: No such file or directory
+*** ERROR ***
+TI:01:55:57	TH:0xe56980	FI:gpm-main.c	FN:main,215
+ - This program cannot start until you start the dbus system service.
+It is <b>strongly recommended</b> you reboot your computer after starting this service.
+Traceback (most recent call last):
+  File "/usr/bin/blueman-applet", line 12, in <module>
+    import dbus
+ModuleNotFoundError: No module named 'dbus'
+Traceback:
+	mate-power-manager() [0x41887f]
+	mate-power-manager() [0x4083f3]
+	/lib/x86_64-linux-gnu/libc.so.6(__libc_start_main+0xf0) [0x7f67c2484830]
+	mate-power-manager() [0x408469]
+Gtk-Message: Failed to load module "gail"
+Gtk-Message: Failed to load module "atk-bridge"
+Window manager warning: Failed to load theme "Ambiant-MATE": Failed to find a valid file for theme Ambiant-MATE
+
+Window manager warning: Failed to load theme "Simple": Failed to find a valid file for theme Simple
+
+Xsession: X session started for generic at Fri Jul 24 02:12:20 UTC 2020
+localuser:generic being added to access control list
+/etc/X11/Xsession: 3: [: x: unexpected operator
+Gtk-Message: Failed to load module "gail"
+Gtk-Message: Failed to load module "atk-bridge"
+x-session-manager[247]: WARNING: Could not connect to Systemd: Failed to connect to socket /var/run/dbus/system_bus_socket: No such file or directory
+x-session-manager[247]: WARNING: Could not connect to Systemd: Failed to connect to socket /var/run/dbus/system_bus_socket: No such file or directory
+x-session-manager[247]: WARNING: Unable to find provider '' of required component 'dock'
+Gtk-Message: Failed to load module "gail"
+Gtk-Message: Failed to load module "atk-bridge"
+Gtk-Message: Failed to load module "gail"
+Gtk-Message: Failed to load module "atk-bridge"
+Gtk-Message: Failed to load module "gail"
+Gtk-Message: Failed to load module "atk-bridge"
+
+(mate-panel:364): GVFS-RemoteVolumeMonitor-WARNING **: remote volume monitor with dbus name org.gtk.vfs.UDisks2VolumeMonitor is not supported
+
+(mate-settings-daemon:358): GVFS-RemoteVolumeMonitor-WARNING **: remote volume monitor with dbus name org.gtk.vfs.UDisks2VolumeMonitor is not supported
+Gtk-Message: Failed to load module "gail"
+Gtk-Message: Failed to load module "atk-bridge"
+x-session-manager[247]: WARNING: Could not launch application 'nm-applet.desktop': Unable to start application: Failed to execute child process "nm-applet" (No such file or directory)
+/usr/lib/ubuntu-mate/ubuntu-mate-tilda: line 17: tilda: command not found
+GNOME_KEYRING_CONTROL=/home/generic/.cache/keyring-5UC6N0
+SSH_AUTH_SOCK=/home/generic/.cache/keyring-5UC6N0/ssh
+GNOME_KEYRING_CONTROL=/home/generic/.cache/keyring-5UC6N0
+SSH_AUTH_SOCK=/home/generic/.cache/keyring-5UC6N0/ssh
+Gtk-Message: Failed to load module "gail"
+Gtk-Message: Failed to load module "gail"
+Gtk-Message: Failed to load module "atk-bridge"
+GNOME_KEYRING_CONTROL=/home/generic/.cache/keyring-5UC6N0
+SSH_AUTH_SOCK=/home/generic/.cache/keyring-5UC6N0/ssh
+Gtk-Message: Failed to load module "atk-bridge"
+grep: /home/generic/.xinputrc: No such file or directory
+Gtk-Message: Failed to load module "gail"
+Gtk-Message: Failed to load module "atk-bridge"
+*** ERROR ***
+TI:02:12:21	TH:0x707980	FI:gpm-main.c	FN:main,215
+ - This program cannot start until you start the dbus system service.
+It is <b>strongly recommended</b> you reboot your computer after starting this service.
+Traceback:
+	mate-power-manager() [0x41887f]
+	mate-power-manager() [0x4083f3]
+	/lib/x86_64-linux-gnu/libc.so.6(__libc_start_main+0xf0) [0x7f8d1056b830]
+	mate-power-manager() [0x408469]
+
+(polkit-mate-authentication-agent-1:472): polkit-mate-1-WARNING **: Error getting authority: Error initializing authority: Could not connect: No such file or directory
+Traceback (most recent call last):
+  File "/usr/bin/blueman-applet", line 12, in <module>
+    import dbus
+ModuleNotFoundError: No module named 'dbus'
+Failure: Module initialization failed
+x-session-manager[247]: WARNING: Could not connect to Systemd: Failed to connect to socket /var/run/dbus/system_bus_socket: No such file or directory
+x-session-manager[247]: WARNING: Could not connect to Systemd: Failed to connect to socket /var/run/dbus/system_bus_socket: No such file or directory
+Initializing caja-main-menu extension
+Initializing caja-image-converter extension
+Initializing caja-open-terminal extension
+** Message: Initializing gksu extension...
+
+(caja:400): GVFS-RemoteVolumeMonitor-WARNING **: remote volume monitor with dbus name org.gtk.vfs.UDisks2VolumeMonitor is not supported
+x-session-manager[247]: WARNING: Could not connect to Systemd: Failed to connect to socket /var/run/dbus/system_bus_socket: No such file or directory
+x-session-manager[247]: WARNING: Could not connect to Systemd: Failed to connect to socket /var/run/dbus/system_bus_socket: No such file or directory
+
+** (caja:400): WARNING **: Can not calculate _NET_NUMBER_OF_DESKTOPS
+
+** (caja:400): WARNING **: Can not calculate _NET_NUMBER_OF_DESKTOPS
+
+** (caja:400): WARNING **: Can not get _NET_WORKAREA
+
+** (caja:400): WARNING **: Can not determine workarea, guessing at layout
+Gtk-Message: Failed to load module "gail"
+Gtk-Message: Failed to load module "atk-bridge"
+Window manager warning: Failed to load theme "Ambiant-MATE": Failed to find a valid file for theme Ambiant-MATE
+
+Window manager warning: Failed to load theme "Simple": Failed to find a valid file for theme Simple
+
+Xsession: X session started for mary at Fri Jul 24 02:16:37 UTC 2020
+localuser:mary being added to access control list
+/etc/X11/Xsession: 3: [: x: unexpected operator
+Gtk-Message: Failed to load module "gail"
+Gtk-Message: Failed to load module "atk-bridge"
+x-session-manager[107]: WARNING: Could not connect to Systemd: Failed to connect to socket /var/run/dbus/system_bus_socket: No such file or directory
+x-session-manager[107]: WARNING: Could not connect to Systemd: Failed to connect to socket /var/run/dbus/system_bus_socket: No such file or directory
+x-session-manager[107]: WARNING: Unable to find provider '' of required component 'dock'
+Gtk-Message: Failed to load module "gail"
+Gtk-Message: Failed to load module "atk-bridge"
+Gtk-Message: Failed to load module "gail"
+Gtk-Message: Failed to load module "atk-bridge"
+Gtk-Message: Failed to load module "gail"
+Gtk-Message: Failed to load module "atk-bridge"
+
+(mate-panel:226): GVFS-RemoteVolumeMonitor-WARNING **: remote volume monitor with dbus name org.gtk.vfs.UDisks2VolumeMonitor is not supported
+
+(mate-settings-daemon:218): GVFS-RemoteVolumeMonitor-WARNING **: remote volume monitor with dbus name org.gtk.vfs.UDisks2VolumeMonitor is not supported
+Gtk-Message: Failed to load module "gail"
+x-session-manager[107]: WARNING: Could not launch application 'nm-applet.desktop': Unable to start application: Failed to execute child process "nm-applet" (No such file or directory)
+Gtk-Message: Failed to load module "atk-bridge"
+/usr/lib/ubuntu-mate/ubuntu-mate-tilda: line 17: tilda: command not found
+GNOME_KEYRING_CONTROL=/home/mary/.cache/keyring-3DWCO0
+SSH_AUTH_SOCK=/home/mary/.cache/keyring-3DWCO0/ssh
+GNOME_KEYRING_CONTROL=/home/mary/.cache/keyring-3DWCO0
+SSH_AUTH_SOCK=/home/mary/.cache/keyring-3DWCO0/ssh
+grep: /home/mary/.xinputrc: No such file or directory
+GNOME_KEYRING_CONTROL=/home/mary/.cache/keyring-3DWCO0
+SSH_AUTH_SOCK=/home/mary/.cache/keyring-3DWCO0/ssh
+Gtk-Message: Failed to load module "gail"
+Gtk-Message: Failed to load module "atk-bridge"
+Gtk-Message: Failed to load module "gail"
+Gtk-Message: Failed to load module "gail"
+Gtk-Message: Failed to load module "atk-bridge"
+Gtk-Message: Failed to load module "atk-bridge"
+
+(polkit-mate-authentication-agent-1:334): polkit-mate-1-WARNING **: Error getting authority: Error initializing authority: Could not connect: No such file or directory
+*** ERROR ***
+TI:02:16:38	TH:0x68d980	FI:gpm-main.c	FN:main,215
+ - This program cannot start until you start the dbus system service.
+It is <b>strongly recommended</b> you reboot your computer after starting this service.
+Traceback:
+	mate-power-manager() [0x41887f]
+	mate-power-manager() [0x4083f3]
+	/lib/x86_64-linux-gnu/libc.so.6(__libc_start_main+0xf0) [0x7f1a236cf830]
+	mate-power-manager() [0x408469]
+Traceback (most recent call last):
+  File "/usr/bin/blueman-applet", line 12, in <module>
+    import dbus
+ModuleNotFoundError: No module named 'dbus'
+x-session-manager[107]: WARNING: Could not connect to Systemd: Failed to connect to socket /var/run/dbus/system_bus_socket: No such file or directory
+x-session-manager[107]: WARNING: Could not connect to Systemd: Failed to connect to socket /var/run/dbus/system_bus_socket: No such file or directory
+Failure: Module initialization failed
+
+** (mate-settings-daemon:218): WARNING **: Disable DEBUG
+Initializing caja-main-menu extension
+Initializing caja-image-converter extension
+Initializing caja-open-terminal extension
+x-session-manager[107]: WARNING: Could not connect to Systemd: Failed to connect to socket /var/run/dbus/system_bus_socket: No such file or directory
+x-session-manager[107]: WARNING: Could not connect to Systemd: Failed to connect to socket /var/run/dbus/system_bus_socket: No such file or directory
+** Message: Initializing gksu extension...
+
+(caja:261): GVFS-RemoteVolumeMonitor-WARNING **: remote volume monitor with dbus name org.gtk.vfs.UDisks2VolumeMonitor is not supported
+
+** (mate-settings-daemon:218): WARNING **: Disable DEBUG
+
+** (caja:261): WARNING **: Can not calculate _NET_NUMBER_OF_DESKTOPS
+
+** (caja:261): WARNING **: Can not calculate _NET_NUMBER_OF_DESKTOPS
+
+** (caja:261): WARNING **: Can not get _NET_WORKAREA
+
+** (caja:261): WARNING **: Can not determine workarea, guessing at layout
+Gtk-Message: Failed to load module "gail"
+Gtk-Message: Failed to load module "atk-bridge"
+Window manager warning: Failed to load theme "Ambiant-MATE": Failed to find a valid file for theme Ambiant-MATE
+
+Window manager warning: Failed to load theme "Simple": Failed to find a valid file for theme Simple
+
+
+(mate-settings-daemon:218): MateDesktop-CRITICAL **: mate_bg_load_from_gsettings: assertion 'G_IS_SETTINGS (settings)' failed
+
+(mate-settings-daemon:218): GLib-GObject-WARNING **: invalid (NULL) pointer instance
+
+(mate-settings-daemon:218): GLib-GObject-CRITICAL **: g_signal_connect_data: assertion 'G_TYPE_CHECK_INSTANCE (instance)' failed

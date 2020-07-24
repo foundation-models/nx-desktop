@@ -1,0 +1,21 @@
+269 269 00:33:04 858.083 Socket: WARNING! Can't bind the IPv6 socket.
+269 269 00:33:04 858.214 Socket: WARNING! Error is 2 'No such file or directory'.
+Info: Slave server running with pid 303.
+Info: Listening to slave connections on port 25001.
+269 269 00:33:05 257.732 UiUtility: Converting system language en_US to supported standard.
+Info: Starting NoMachine Monitor version '6.2.4'.
+Info: Loaded translation files for 'English'.
+269 269 00:33:05 270.711 OsDetect: Setting os type to 'Ubuntu'.
+269 269 00:33:05 270.793 Main: Creating a new connection monitor.
+269 269 00:33:05 311.508 UiUtility: WARNING! Couldn't get window manager name.
+269 269 00:33:05 521.072 UiUtility: WARNING! Couldn't get window manager name.
+269 269 00:33:05 550.967 ClientThread: Creating new thread.
+269 269 00:33:06 050.222 MonitorService: Drag and drop feature is disabled.
+269 269 00:33:06 866.714 MonitorDB: Adding user 'generic'.
+269 269 00:33:06 868.552 ClientSlave: Starting config slave with command get.
+269 269 00:33:07 075.046 MonitorDB: There are '1' users.
+269 269 00:33:09 183.197 ClientSlave: Starting config slave with command get.
+269 269 00:33:11 340.186 ClientSlave: Starting config slave with command get.
+269 269 00:33:13 497.384 ClientSlave: Starting config slave with command get.
+269 269 00:33:15 651.114 ClientSlave: Starting config slave with command get.
+269 269 00:33:17 806.611 ClientSlave: Starting config slave with command get.
