@@ -6,3 +6,8 @@
 /generic/.local/
 /generic/.nx/
 /generic/.qt/
+/generic/.gvfs/
+/generic/.esd_auth
+/generic/.ICEauthority
+/generic/.Xauthority
+/generic/.xsession-errors
