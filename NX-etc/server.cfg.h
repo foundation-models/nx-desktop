@@ -978,7 +978,7 @@ AvailableSessionTypes unix-remote,unix-console,unix-default,unix-application,phy
 # must be the display owner set in this key.
 #
 #DisplayOwner ""
-DisplayOwner guest
+DisplayOwner h
 
 #
 # When 'CreateDisplay' is enabled, specify the resolution of the new
