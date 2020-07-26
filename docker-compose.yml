@@ -21,10 +21,11 @@ services:
       - /dev/shm:/dev/shm
       - packages:/opt/packages
       - dev:/opt/dev
+      - python:/opt/python
       - R-package:/opt/R
       - lib:/opt/lib
       - ~:/opt/host
-      - tmp:/tmp
+      - /tmp:/tmp
   methyl:
     image: joshualevy44/pymethylprocess
     container_name: methyl
@@ -45,6 +46,8 @@ volumes:
     external: true
   dev:
     external: true
-  tmp:
+  python:
+    external: true
+  autogrid:
     external: true
 
