@@ -1,4 +1,4 @@
-version: '3'
+ version: '3'
 services:
   desktop: # choose 2560x1440 for display
     image: hossein20s/nx-desktop
@@ -22,8 +22,6 @@ services:
       - packages:/opt/packages
       - dev:/opt/dev
       - python:/opt/python
-      - R-package:/opt/R
-      - lib:/opt/lib
       - ~:/opt/host
       - /tmp:/tmp
   methyl:
@@ -34,20 +32,12 @@ services:
     volumes:
       - dev:/opt/dev
       - packages:/opt/packages
-      - R-package:/opt/R
-      - lib:/opt/lib
       - ~:/opt/host
 volumes:
-  R-package:
-    external: true
   packages:
-    external: true
-  lib:
     external: true
   dev:
     external: true
   python:
-    external: true
-  autogrid:
     external: true
 
