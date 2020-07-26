@@ -6,8 +6,10 @@
 /generic/.local/
 /generic/.nx/
 /generic/.qt/
-/generic/.gvfs/
 /generic/.esd_auth
 /generic/.ICEauthority
 /generic/.Xauthority
 /generic/.xsession-errors
+/generic/.gvfs/
+/generic/.java/
+/generic/.PyCharmCE2019.3/
