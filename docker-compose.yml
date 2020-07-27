@@ -1,4 +1,4 @@
- version: '3'
+version: '3'
 services:
   desktop: # choose 2560x1440 for display
     image: hossein20s/nx-desktop
