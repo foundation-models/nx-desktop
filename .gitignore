@@ -35,3 +35,6 @@
 /developer/.bash_history
 /developer/.sudo_as_admin_successful
 
+/charm
+/.idea/
+/generic/.gksu.lock
