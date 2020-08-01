@@ -1,0 +1,11 @@
+#!/usr/bin/env xdg-open
+
+[Desktop Entry]
+Version=1.0
+Type=Application
+Terminal=false
+Icon[en_US]=mate-panel-launcher
+Name[en_US]=Unity
+Exec=/opt/Unity-2019.4.0f1/Editor/Unity
+Name=Unity
+Icon=/opt/Unity-2019.4.0f1/Editor/Data/Resources/LargeUnityIcon.png

@@ -1,0 +1,11 @@
+#!/usr/bin/env xdg-open
+
+[Desktop Entry]
+Version=1.0
+Type=Application
+Terminal=false
+Icon[en_US]=mate-panel-launcher
+Exec=/opt/apps/Postman/Postman
+Name[en_US]=Postman
+Name=Postman
+Icon=/opt/apps/Postman/app/resources/app/assets/icon.png
