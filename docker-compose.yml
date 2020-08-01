@@ -1,7 +1,7 @@
 version: '3'
 services:
   desktop: # choose 2560x1440 for display
-    image: hossein20s/nx-desktop
+    image: hossein20s/nx-desktop:h
     container_name: desktop
     privileged: true
     ports:
@@ -21,7 +21,6 @@ services:
       - /dev/shm:/dev/shm
       - packages:/opt/packages
       - dev:/opt/dev
-      - python:/opt/python
       - ~:/opt/host
       - /tmp:/tmp
   methyl:
