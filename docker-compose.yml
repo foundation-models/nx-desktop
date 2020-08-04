@@ -20,6 +20,7 @@ services:
     volumes:
       - ~:/opt/host
       - /tmp:/tmp
+      - /dev/shm:/dev/shm
   methyl:
     image: joshualevy44/pymethylprocess
     container_name: methyl
