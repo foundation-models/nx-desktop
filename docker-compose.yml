@@ -1,7 +1,7 @@
 version: '3'
 services:
   desktop: # choose 2560x1440 for display
-    image: hossein20s/nx-desktop:h
+    image: hossein20s/docker-desktop:ml
     container_name: desktop
     privileged: true
     ports:
@@ -18,25 +18,13 @@ services:
     cap_add:
       - SYS_PTRACE
     volumes:
-      - /dev/shm:/dev/shm
-      - packages:/opt/packages
-      - dev:/opt/dev
       - ~:/opt/host
       - /tmp:/tmp
+      - /dev/shm:/dev/shm
   methyl:
     image: joshualevy44/pymethylprocess
     container_name: methyl
     privileged: true
     command: tail -f /dev/null
     volumes:
-      - dev:/opt/dev
-      - packages:/opt/packages
       - ~:/opt/host
-volumes:
-  packages:
-    external: true
-  dev:
-    external: true
-  python:
-    external: true
-
